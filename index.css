@@ -225,7 +225,7 @@
 }
 
 .blurb div {
-  font-family: 'Muli', sans-serif;
+  font-family: 'Mulish', sans-serif;
 }
 
 
@@ -268,7 +268,7 @@
   text-align: left;
   background: hsla(100,0%,0%,.6);
   color: #d2ba87;
-  font-family: 'Muli', sans-serif;
+  font-family: 'Mulish', sans-serif;
 }
 
 .program h2 {
@@ -331,7 +331,7 @@
 }
 
 .faq p {
-  font-family: 'Muli', sans-serif;
+  font-family: 'Mulish', sans-serif;
   text-align: left;
 }
 
@@ -388,7 +388,7 @@ footer {
   width: 100vw;
   background-color: #606060;
   color: #fff;
-  font-family: 'Muli', sans-serif;
+  font-family: 'Mulish', sans-serif;
   display: table;
   text-align: center;
   font-size: .875rem;
